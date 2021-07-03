@@ -54,7 +54,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hello, Oscar!</h1>
+        <h1>Hello, Mario!</h1>
         <hr />
         <div className="box">{this.state.squares}</div>
       </div>
