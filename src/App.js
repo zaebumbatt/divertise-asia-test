@@ -57,6 +57,7 @@ class App extends Component {
         <h1>Hello, Mario!</h1>
         <hr />
         <div className="box">{this.state.squares}</div>
+        <h5>Click to remove, click again to create new one.</h5>
       </div>
     )
   };
